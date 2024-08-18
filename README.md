@@ -1,6 +1,6 @@
 ## Oiii eu sou o Teogenes Ferreira, apaixonado por programação, tecnologia e música! 👋
 
-- 🌱Estudando Java e Python na DIO
+- 🌱Estudando C# na DIO
 - 🌱Estudando Html, CSS e JavaScript no W3Schools
 
   <div>
